@@ -2,15 +2,8 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 
 function CardItem(props) {
-  function openUrlInNewTab(url) {
-    var win = window.open(url, '_blank')
-    win.focus()
-  }
   return (
-    <div
-      className='card'
-      onClick={() => openUrlInNewTab('https://netflix-clone-7491d.web.app/')}
-    >
+    <div className='card' onClick={props.onClick}>
       <img src={props.src} alt='' />
       <div className='card__info'>
         <h2>{props.title}</h2>
