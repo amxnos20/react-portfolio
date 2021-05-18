@@ -1,0 +1,15 @@
+.section-title-container {
+  line-height: 0.1;
+}
+
+.section-title-container > h1 {
+  display: table;
+  padding: 10px 2px;
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+  margin: 0 auto;
+  margin-top: 4rem;
+  margin-bottom: 1rem;
+  font-size: 56px;
+  font-weight: 400;
+}

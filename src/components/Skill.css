@@ -1,0 +1,58 @@
+.skill {
+  margin-top: 4rem;
+  margin-bottom: 3rem;
+  border-radius: 10px;
+}
+
+.skill .skill-text {
+  padding: 120px 40px;
+  height: 100%;
+}
+
+.skill .skill-text > h2 {
+  margin-bottom: 1.5rem;
+  top: 0;
+}
+
+.skill > h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 41px;
+  margin-bottom: 10px;
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+}
+
+#root > div.skill > div.container > div > div:nth-child(1) > h2 {
+  margin-bottom: 30px;
+}
+
+.skill__img {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  padding: 60px;
+  object-fit: contain;
+}
+
+.skill-text > ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+.skill-text .skill-item {
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+}
+
+.skill__img > img {
+  width: 100%;
+}
+
+@media (max-width: 1087px) {
+  .skill .skill-text {
+    padding: 5px 40px;
+    margin-bottom: 4rem;
+  }
+}
