@@ -2,6 +2,7 @@ import React from 'react'
 import './HeroSection.css'
 import Button from './Button'
 import Typed from 'react-typed'
+import Background from '../images/web.jpg'
 
 const HeroSection = () => {
   const typedArray = [
@@ -13,7 +14,20 @@ const HeroSection = () => {
     'Open-source Lover',
   ]
   return (
-    <div className='hero-container'>
+    <div
+      className='hero-container'
+      style={{
+        height: '100vh',
+        width: '100%',
+        display: 'flex',
+        flexDirection: 'column',
+        alignItems: 'center',
+        objectFit: 'contain',
+        justifyContent: 'center',
+        position: 'relative',
+        background: `url(${Background}) center center/cover`,
+      }}
+    >
       <h1>Hi, I'm Aman👋</h1>
       <Typed
         strings={typedArray}
