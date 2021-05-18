@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.5cc0d743.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.3182e801.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.3182e801.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.7a3fb579.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.7a3fb579.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.6a708c5f.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.6a708c5f.js.map",
     "static/js/2.87904e5f.chunk.js": "/react-portfolio/static/js/2.87904e5f.chunk.js",
@@ -14,12 +14,13 @@
     "static/js/2.87904e5f.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.87904e5f.chunk.js.LICENSE.txt",
     "static/media/developerActivity.64ee6450.svg": "/react-portfolio/static/media/developerActivity.64ee6450.svg",
     "static/media/manOnTable.ec71d7cb.svg": "/react-portfolio/static/media/manOnTable.ec71d7cb.svg",
-    "static/media/netflix-clone.1c67a05a.PNG": "/react-portfolio/static/media/netflix-clone.1c67a05a.PNG"
+    "static/media/netflix-clone.1c67a05a.PNG": "/react-portfolio/static/media/netflix-clone.1c67a05a.PNG",
+    "static/media/web.9b6172a3.jpg": "/react-portfolio/static/media/web.9b6172a3.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.6a708c5f.js",
     "static/js/2.87904e5f.chunk.js",
     "static/css/main.5cc0d743.chunk.css",
-    "static/js/main.3182e801.chunk.js"
+    "static/js/main.7a3fb579.chunk.js"
   ]
 }
