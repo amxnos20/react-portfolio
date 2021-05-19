@@ -5,7 +5,7 @@ import Skill from '../Skill'
 
 const AboutScreen = () => {
   return (
-    <div style={{ marginTop: '10rem', marginBottom: '10rem' }}>
+    <div style={{ marginTop: '7rem', marginBottom: '10rem' }}>
       <About />
       <Skill />
     </div>

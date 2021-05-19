@@ -4,7 +4,7 @@ import Contact from '../Contact'
 
 const ContactScreen = () => {
   return (
-    <div style={{ marginTop: '10rem' }}>
+    <div style={{ marginTop: '7rem' }}>
       <Contact />
     </div>
   )

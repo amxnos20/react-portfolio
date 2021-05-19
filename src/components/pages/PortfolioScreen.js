@@ -4,7 +4,7 @@ import Cards from '../Cards'
 
 const PortfolioScreen = () => {
   return (
-    <div style={{ marginTop: '10rem' }}>
+    <div style={{ marginTop: '7rem' }}>
       <Cards />
     </div>
   )
