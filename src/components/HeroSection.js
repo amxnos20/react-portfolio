@@ -48,7 +48,7 @@ const HeroSection = () => {
           buttonStyle='btn--outline'
           buttonSize='btn--large'
         >
-          See my resume
+          Contact
         </Button>
       </div>
     </div>
