@@ -3,7 +3,7 @@ import CardItem from './CardItem'
 import './Cards.css'
 import Title from './Title'
 import netflixClone from '../images/netflix-clone.PNG'
-import amazonClone from '../images/amazon-clone.PNG'
+import amazonClone from '../images/amazon-next.PNG'
 import covidTracker from '../images/covid-tracker.PNG'
 
 const Cards = () => {
@@ -33,7 +33,7 @@ const Cards = () => {
           src={amazonClone}
           title='Amazon Clone Demo App'
           description='Amazon App with full user authentification, basket functionality, database and stripe payment system.'
-          onClick={() => openUrlInNewTab('https://clone-9f936.web.app/')}
+          onClick={() => openUrlInNewTab('https://amazon-2-0-delta.vercel.app/')}
         />
         <CardItem
           src={netflixClone}
