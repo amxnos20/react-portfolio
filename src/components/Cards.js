@@ -24,7 +24,7 @@ const Cards = () => {
         <CardItem
           src={covidTracker}
           title='Covid Tracker'
-          description='Covid App built with real data, with map, chart, table... functionality'
+          description='Covid App built with real data, map, chart, table... functionality. Tech: React,Custom API,Material-UI,Leaflet'
           onClick={() =>
             openUrlInNewTab('https://covid-tracker-5d6f2.web.app/')
           }
@@ -32,7 +32,7 @@ const Cards = () => {
         <CardItem
           src={amazonClone}
           title='Amazon Clone Demo App'
-          description='Amazon App with full user authentification, basket functionality, database and stripe payment system.'
+          description='Amazon App with full user authentification, basket functionality, database and stripe payment system. Tech: React,NextJS,Redux,Tailwind CSS,Custom API,Webhook,Stripe,Firebase'
           onClick={() => openUrlInNewTab('https://amazon-2-0-delta.vercel.app/')}
         />
         <CardItem
