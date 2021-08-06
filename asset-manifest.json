@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.268feabd.chunk.css",
-    "main.js": "/static/js/main.90b00438.chunk.js",
-    "main.js.map": "/static/js/main.90b00438.chunk.js.map",
+    "main.css": "/static/css/main.f8058f8d.chunk.css",
+    "main.js": "/static/js/main.47e07fd1.chunk.js",
+    "main.js.map": "/static/js/main.47e07fd1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fe032fba.js",
     "runtime-main.js.map": "/static/js/runtime-main.fe032fba.js.map",
     "static/js/2.87904e5f.chunk.js": "/static/js/2.87904e5f.chunk.js",
@@ -10,19 +10,19 @@
     "static/js/3.46302ae3.chunk.js": "/static/js/3.46302ae3.chunk.js",
     "static/js/3.46302ae3.chunk.js.map": "/static/js/3.46302ae3.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.268feabd.chunk.css.map": "/static/css/main.268feabd.chunk.css.map",
+    "static/css/main.f8058f8d.chunk.css.map": "/static/css/main.f8058f8d.chunk.css.map",
     "static/js/2.87904e5f.chunk.js.LICENSE.txt": "/static/js/2.87904e5f.chunk.js.LICENSE.txt",
     "static/media/amazon-next.47a41089.PNG": "/static/media/amazon-next.47a41089.PNG",
     "static/media/covid-tracker.4c931ac3.PNG": "/static/media/covid-tracker.4c931ac3.PNG",
     "static/media/developerActivity.64ee6450.svg": "/static/media/developerActivity.64ee6450.svg",
     "static/media/manOnTable.ec71d7cb.svg": "/static/media/manOnTable.ec71d7cb.svg",
-    "static/media/netflix-clone.1c67a05a.PNG": "/static/media/netflix-clone.1c67a05a.PNG",
+    "static/media/uber-clone.d4ccb4d7.jpg": "/static/media/uber-clone.d4ccb4d7.jpg",
     "static/media/web.9b6172a3.jpg": "/static/media/web.9b6172a3.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.fe032fba.js",
     "static/js/2.87904e5f.chunk.js",
-    "static/css/main.268feabd.chunk.css",
-    "static/js/main.90b00438.chunk.js"
+    "static/css/main.f8058f8d.chunk.css",
+    "static/js/main.47e07fd1.chunk.js"
   ]
 }
